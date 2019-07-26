@@ -1,2 +1,2 @@
 # calcification
-Wlecome to the git
+Welcome to the git
